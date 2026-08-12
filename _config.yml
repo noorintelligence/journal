@@ -1,5 +1,5 @@
 title: Noor Intelligence
 description: Field Notes & Daily Build Log
-theme: null
-permalink: /posts/:year/:month/:day/:title/
+theme: jekyll-theme-slate
 future: true
+permalink: /posts/:year/:month/:day/:title/
