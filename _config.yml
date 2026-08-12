@@ -3,3 +3,10 @@ description: Field Notes & Daily Build Log
 theme: jekyll-theme-cayman
 future: true
 permalink: /posts/:year/:month/:day/:title/
+---
+layout: post
+title: "Dev Journal: Diagnosing a Broken Retail Loyalty Program"
+date: 2026-08-12 12:00:00 -0000
+categories: [Product Analytics, Growth Engineering]
+tags: [kpi, analytics, metrics, retail, e-commerce]
+---
