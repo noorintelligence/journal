@@ -1,0 +1,14 @@
+title: Noor Intelligence — Field Notes & Build Log
+author: Bala
+description: Daily field notes on AI evaluation, software engineering, privacy automation, and GRC systems.
+
+# Clean minimal theme provided free by GitHub Pages
+theme: minima
+
+# Navigation settings
+header_pages:
+  - index.md
+  - about.md
+
+# Permalink structure for daily posts
+permalink: /posts/:year/:month/:day/:title/
