@@ -1,7 +1,7 @@
 ---
-layout: posts
+layout: default
 title: "Day 1: Executive Problem De-Fugifier"
-date: 2026-08-12
+date: 2026-07-12
 categories: [ai-apps, client-side]
 tags: [gemini-api, javascript, github-pages]
 ---
