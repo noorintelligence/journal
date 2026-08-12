@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Day 1: Executive Problem De-Fugifier"
 date: 2026-08-12
 categories: [ai-apps, client-side]
