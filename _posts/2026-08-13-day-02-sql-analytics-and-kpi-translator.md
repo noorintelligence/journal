@@ -1,0 +1,45 @@
+# Day 2: Advanced SQL Analytics, Relational Architecture & WebAssembly Engines
+
+## 📅 Date: 13 August 2026
+## 🎯 Focus: E-Commerce Analytics, Relational Database Modeling & In-Browser SQL Execution
+
+---
+
+## 🚀 Summary of What Was Built Today
+
+Today shifted from initial scoping into core database architecture, SQL analytics, and client-side WebAssembly engineering. I designed, built, and deployed two distinct applications to demonstrate advanced analytical capabilities directly to recruiters and stakeholders.
+
+### 1. Executive KPI Translator & Boss Explainer (Enhancements & Final Deployment)
+* **What it is:** A browser-native client-side web application translating technical formulas (Churn, CAC, ROAS, Conversion Rate) into executive, non-technical business scripts.
+* **Key Updates Today:** Standardized all financial metrics to British Pound Sterling (£), optimized responsive UI layouts, and embedded an inline Data URI SVG vector favicon to eliminate asset latency.
+* **Why it was built:** Data analysts often fail to bridge the gap between technical calculation and commercial narrative. This tool provides instant, context-aware spoken-word scripts for C-suite presentations and business reviews.
+* **Live Application:** [https://noorintelligence.github.io/executive-kpi-translator/](https://noorintelligence.github.io/executive-kpi-translator/)
+
+---
+
+### 2. E-Commerce Cohort & Churn SQL Studio (`ecommerce-cohort-churn-sql`)
+* **What it is:** An interactive, serverless SQL studio running a full SQLite relational database inside the browser using WebAssembly (`sql.js`).
+* **Technical Features:**
+  * Ingests 10,000+ relational database items across normalized `customers`, `orders`, and `products` tables on load.
+  * Interactive SQL console enabling custom query execution or pre-configured analytical presets.
+  * Advanced ANSI SQL logic including Common Table Expressions (CTEs), Window Functions (`PARTITION BY`, `ROWS BETWEEN`), and pivot matrices.
+* **Why it was built:** To demonstrate advanced SQL querying capabilities over complex time-series transactional datasets—specifically calculating Monthly Cohort Retention Matrices, Cumulative Customer Lifetime Value (LTV) timelines, and Churn Revenue Leakage—without requiring external server infrastructure.
+* **Live Application:** [https://noorintelligence.github.io/ecommerce-cohort-churn-sql/](https://noorintelligence.github.io/ecommerce-cohort-churn-sql/)
+
+---
+
+## 🛠️ Key Technical Capabilities Demonstrated
+
+1. **Relational Database Design:** Normalisation, primary/foreign key indexing, and transactional schema modeling.
+2. **Advanced SQL Querying:** Multi-stage CTEs, window functions for running totals, conditional aggregations for cohort pivoting, and date offset arithmetic.
+3. **Client-Side Web Architecture:** Compiled WebAssembly (`sql.js`), zero-dependency vanilla JS/CSS3, embedded vector icons, and serverless hosting via GitHub Pages.
+
+---
+
+## 📌 Public Portfolio Links
+
+* 🌐 **Live Executive KPI Translator:** [https://noorintelligence.github.io/executive-kpi-translator/](https://noorintelligence.github.io/executive-kpi-translator/)
+* 🌐 **Live SQL Cohort & Churn Studio:** [https://noorintelligence.github.io/ecommerce-cohort-churn-sql/](https://noorintelligence.github.io/ecommerce-cohort-churn-sql/)
+* 💻 **GitHub Profile:** [@noorintelligence](https://github.com/noorintelligence)
+
+  
